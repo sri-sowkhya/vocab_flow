@@ -1,0 +1,48 @@
+# ========================================================================
+#                     VocabFlow Technical Requirements
+# ========================================================================
+
+# 1. RUNTIME ENVIRONMENTS & COMPILERS
+# ------------------------------------------------------------------------
+# Node.js SDK: >= v20.x (Recommended: Node.js v24.x)
+# ESM Syntax Module support enabled (type: "module")
+# Flutter SDK: >= v3.19.x (Recommended: Flutter v3.22.x)
+# Dart SDK: >= v3.11.5
+
+# 2. DATABASE SYSTEMS
+# ------------------------------------------------------------------------
+# MongoDB: >= v6.0.x (or MongoDB Atlas Cloud Database)
+# Neo4j Graph Database: >= v5.x (or Neo4j AuraDB Cloud Instance)
+
+# 3. BACKEND DEPENDENCIES (Node.js/Express.js)
+# ------------------------------------------------------------------------
+# @xenova/transformers: ^2.17.2
+# bcrypt: ^6.0.0
+# cors: ^2.8.6
+# dotenv: ^17.4.2
+# express: ^5.2.1
+# jsonwebtoken: ^9.0.3
+# mongoose: ^9.7.1
+# neo4j-driver: ^6.1.0
+# node-fetch: ^3.3.2
+
+# 4. BACKEND DEVELOPMENT DEPENDENCIES
+# ------------------------------------------------------------------------
+# jest: ^30.4.2
+# supertest: ^7.2.2
+# @types/bcrypt: ^6.0.0
+# @types/jsonwebtoken: ^9.0.10
+
+# 5. FRONTEND DEPENDENCIES (Flutter/Dart)
+# ------------------------------------------------------------------------
+# cupertino_icons: ^1.0.8
+# dio: ^5.9.2
+# flutter_bloc: ^9.1.1
+# get_it: ^9.2.1
+# flutter_secure_storage: ^10.3.1
+# equatable: ^2.0.8
+
+# 6. FRONTEND DEVELOPMENT DEPENDENCIES
+# ------------------------------------------------------------------------
+# flutter_test: sdk: flutter
+# flutter_lints: ^6.0.0
